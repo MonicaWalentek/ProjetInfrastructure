@@ -1,6 +1,6 @@
 # Projet Infrastructure
 
-Ce projet est un projet donné par le CESI développé sur **Ubuntu**.
+Ce projet est un projet donné par le CESI développé sur **Ubuntu 20.04**.
 
 ## Description du projet
 
