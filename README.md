@@ -6,7 +6,7 @@ Ce projet est un projet donné par le CESI développé sur **Ubuntu**.
 
 Notre client, ici le CESI, a besoin d’une infrastructure réseau comprenant un serveur de pré-production ainsi qu’un serveur de production. Il a besoin d’un CMS que nous choisirons pour représenter son activité, et voudrait également un espace personnel pour chacun de ses collaborateurs et développeurs leur permettant de personnaliser leurs pages web et de les rendre accessibles au public.
 
-## Objectifs qui ont été atteints :
+## Objectifs atteints :
 
 - Mise en place d'un serveur web de pré-production sur un système Linux
 - Installer les modules nécessaires et les configurer
